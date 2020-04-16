@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# 执行 ./test.sh hello word
 echo "hello"
 echo "执行文件名: $0";
 echo "第一个参数: $1";
